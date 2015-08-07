@@ -1,4 +1,5 @@
 # hello-world
 
-Tutorial repository
+Tutorial repository.
+
 This is a test.
